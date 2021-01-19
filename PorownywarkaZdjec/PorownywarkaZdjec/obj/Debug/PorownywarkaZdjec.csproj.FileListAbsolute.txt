@@ -1,0 +1,12 @@
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\bin\Debug\PorownywarkaZdjec.exe.config
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\bin\Debug\PorownywarkaZdjec.exe
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\bin\Debug\PorownywarkaZdjec.pdb
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.exe
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.pdb
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.Form2.resources
+J:\Programy 2020\WSP_ST_wyklad\PorownywarkaZdjec\PorownywarkaZdjec\obj\Debug\PorownywarkaZdjec.Form3.resources
